@@ -30,9 +30,3 @@ Built Using Languages and Libraries Listed Below
 * /代码/analysis 文件下包含了数据分析的文件
 
 
-
-## Contributing
-
-
-## License
-
